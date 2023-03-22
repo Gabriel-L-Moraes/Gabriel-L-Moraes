@@ -1,4 +1,4 @@
-# Bem vindos ao meu perfil. 🪿
+# Bem vindos ao meu perfil. 🚀
 
 [![](https://visitcount.itsvg.in/api?id=Gabriel-L-Moraes&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -6,7 +6,7 @@
 # 🤙 Sobre Mim:
 * 🖥️ Técnico em informática (Senac Osasco)<br>
 * 🧠 Analista de Sistemas (Universidade Nove de Julho Memorial)<br> 
-* 📚 Estudante na Trybe <br>
+* 📚 Estudante na Trybe <br> 
 * 📧 Email pessoal: gabriel_lmoraes@outlook.com<br>
 * 👨 Linkedin: https://www.linkedin.com/in/gabrielldemoraes/<br>
 * 👨‍🎓 Portifolio: https://gabriel-l-moraes.github.io/gabriellmoraes.github.io/
